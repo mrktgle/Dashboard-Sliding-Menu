@@ -1,13 +1,13 @@
-# Dashboard Sliding Menu Bar made in Microsoft Visual Studio C#
+## Dashboard Sliding Menu Bar made in Microsoft Visual Studio C#
 
-## Frameworks used:
-  ### Metro Modern UI version 1.4.0.0
+### Frameworks used:
+  Metro Modern UI version 1.4.0.0
   
-  ### Visual Reactice WinForms version 1.0.0
+  Visual Reactice WinForms version 1.0.0
 
-  ### Bunifu UI v1.5.3
+  Bunifu UI v1.5.3
   
-  ### LollipoUi
+  LollipoUi
   
   
 -----------------
