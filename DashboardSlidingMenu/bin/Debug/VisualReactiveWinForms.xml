@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VisualReactiveWinForms</name>
+    </assembly>
+    <members>
+        <member name="T:KimtToo.VisualReactive.VSReactive`1">
+            <summary>
+            Reactive Mini Library by KimTooFlex
+            </summary>
+            <typeparam name="T"></typeparam>
+            
+        </member>
+        <member name="F:KimtToo.VisualReactive.VSReactive`1.states">
+            <summary>
+            The states
+            </summary>
+        </member>
+        <member name="F:KimtToo.VisualReactive.VSReactive`1.methods">
+            <summary>
+            The methods
+            </summary>
+        </member>
+        <member name="F:KimtToo.VisualReactive.VSReactive`1.callbacks">
+            <summary>
+            The callbacks
+            </summary>
+        </member>
+        <member name="F:KimtToo.VisualReactive.VSReactive`1.timers">
+            <summary>
+            The methods
+            </summary>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.BindEvent(System.Object,`0)">
+            <summary>
+            Binds the event.
+            </summary>
+            <param name="stateName">Name of the state.</param>
+            <param name="stateValue">The state.</param>
+            <returns></returns>
+        </member>
+        <member name="F:KimtToo.VisualReactive.VSReactive`1.bindigs">
+            <summary>
+            The bindigs
+            </summary>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.SetState(System.Object,`0,System.Boolean)">
+            <summary>
+            Sets the state.
+            </summary>
+            <param name="stateName">The name.</param>
+            <param name="state">The state.</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.SubscribeMethod(System.Object,System.Action{`0})">
+            <summary>
+            Subscribes  a method with the specified name.
+            </summary>
+            <param name="stateName">The name.</param>
+            <param name="method">The method.</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.UnSubscribeMethod(System.Object)">
+            <summary>
+            Removes  a method with the specified name.
+            </summary> 
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.InvokeMethod(System.Object,`0)">
+            <summary>
+            Invokes the specified method name.
+            </summary>
+            <param name="v">The v.</param>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.Subscribe(System.Object,System.Action{`0},System.Boolean)">
+            <summary>
+            Subscribes to the specified state and invokes the callback when the state changes.
+            </summary>
+            <param name="stateName">Name of the state.</param>
+            <param name="callBack">The call back.</param>
+            <param name="dispatch">if set to <c>true</c> [dispatch].</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.Broadcast(System.Windows.Forms.Control,System.String,System.Object)">
+            <summary>
+            Broadcasts the specified source control property value to the State when the property changes.
+            </summary>
+            <param name="SourceControl">The source control.</param>
+            <param name="propertyName">Name of the property.</param>
+            <param name="stateName">Name of the state.</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:KimtToo.VisualReactive.VSReactive`1.BroadSub(System.Windows.Forms.Control,System.String,System.Object,System.Action{`0})" -->
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.Dispose(System.Object)">
+            <summary>
+            Disposes the specified state and all its Data.
+            </summary>
+            <param name="stateName">Name of the state.</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.MuteBroadcast(System.Object)">
+            <summary>
+             Mute Subscribers Listenig to state.
+            </summary>
+            <param name="stateName">Name of the state.</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.GetState(System.Object)">
+            <summary>
+            Gets the state.
+            </summary>
+            <param name="stateName">The name.</param>
+            <returns></returns>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive`1.SetInterval(System.Object,System.Int32,System.Action{`0})">
+            <summary>
+            Sets the interval for a timer and invokes the callback on Tick (stops if the stateValue is 0).
+            </summary>
+            <param name="stateName">Name of the state.</param>
+            <param name="stateInterval">The state interval.</param>
+            <param name="method">The method.</param>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive.ObjectToString(System.Object)">
+            <summary>
+            Objects to string.
+            </summary>
+            <param name="obj">The object.</param>
+            <returns></returns>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive.StringToObject(System.String)">
+            <summary>
+            Strings to object.
+            </summary>
+            <param name="base64String">The base64 string.</param>
+            <returns></returns>
+        </member>
+        <member name="T:KimtToo.VisualReactive.VSReactive.DataBinder`1">
+            <summary>
+            Binding tool
+            </summary>
+            <typeparam name="T"></typeparam>
+            <seealso cref="T:System.ComponentModel.INotifyPropertyChanged" />
+            
+        </member>
+        <member name="E:KimtToo.VisualReactive.VSReactive.DataBinder`1.PropertyChanged">
+            <summary>
+            Occurs when [property changed].
+            </summary>
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive.DataBinder`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:KimtToo.VisualReactive.VSReactive.DataBinder`1"/> class.
+            </summary>
+        </member>
+        <member name="P:KimtToo.VisualReactive.VSReactive.DataBinder`1.Data">
+            <summary>
+            Gets or sets the data.
+            </summary>
+            <value>
+            The data.
+            </value>
+            
+        </member>
+        <member name="M:KimtToo.VisualReactive.VSReactive.DataBinder`1.NotifyPropertyChanged(System.String)">
+            <summary>
+            Notifies the property changed.
+            </summary>
+            <param name="propertyName">Name of the property.</param>
+        </member>
+    </members>
+</doc>

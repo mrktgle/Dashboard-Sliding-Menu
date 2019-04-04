@@ -1,0 +1,36 @@
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe.config
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.pdb
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.Design.dll
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.dll
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.dll
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.xml
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.BBaseForm.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmBase.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMDepartments.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMEmployees.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.exe
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.pdb
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmLogin.resources
+D:\Documents\Visual Studio 2015\Projects\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csprojResolveAssemblyReference.cache
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe.config
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.exe
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.pdb
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.exe
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\DashboardSlidingMenu.pdb
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.Design.dll
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.dll
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\MetroFramework.Fonts.dll
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.dll
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\bin\Debug\VisualReactiveWinForms.xml
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csprojResolveAssemblyReference.cache
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.BBaseForm.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmBase.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMDepartments.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmFMEmployees.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.frmLogin.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.Properties.Resources.resources
+G:\Libraries\DashboardSlidingMenu\DashboardSlidingMenu\obj\Debug\DashboardSlidingMenu.csproj.GenerateResource.Cache
