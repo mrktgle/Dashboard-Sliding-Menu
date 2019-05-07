@@ -1,4 +1,4 @@
-## Dashboard Sliding Menu Bar made in Microsoft Visual Studio C#
+## Dashboard Sliding Menu Bar made in Microsoft Visual Studio C# Winforms
 
 ### Frameworks used:
   Metro Modern UI version 1.4.0.0
